@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wyo!om^n5sk$w&tb9d6j@+j%bsz7mt)(#c$!p@&njc*i-dx3&n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', '.now.sh']
+ALLOWED_HOSTS = ['https://shivamojha-007.github.io/studentportal/']
 
 
 
